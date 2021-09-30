@@ -1,6 +1,6 @@
 package com.example.lab4;
 
-public class Shape {
+public abstract class Shape {
     Integer x;
     Integer y;
 }

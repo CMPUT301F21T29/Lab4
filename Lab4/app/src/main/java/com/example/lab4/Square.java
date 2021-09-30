@@ -1,7 +1,7 @@
 package com.example.lab4;
 
-public class Star extends Shape {
-    public Star(int x, int y) {
+public class Square extends Shape {
+    public Square(int x, int y) {
         this.x = x;
         this.y = y;
     }

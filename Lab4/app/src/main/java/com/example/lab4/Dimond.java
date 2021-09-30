@@ -1,6 +1,6 @@
 package com.example.lab4;
 
-    public class Dimond extends shape {
+    public class Dimond extends Shape {
         private int x;
         private int y;
 
